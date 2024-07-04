@@ -1,0 +1,5 @@
+model_embedding:
+  - "tiiuae/falcon-7b-instruct"
+  - "HuggingFaceH4/zephyr-7b-beta"
+  - "meta-llama/Llama-2-7b-chat-hf"
+  - "OpenAI"

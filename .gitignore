@@ -1,0 +1,5 @@
+*.ipynb
+.env
+
+applications/*.py
+discarded_notebooks/*.py
