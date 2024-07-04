@@ -8,7 +8,7 @@ with open("config.yaml", "r") as config_file:
 model_embedding = config["model_embedding"]
 
 # Streamlit app
-st.title("PDF Q&A with OpenAI and Slack")
+st.title("ZaniAGENT")
 
 # File uploader for PDF
 pdf_file = st.file_uploader("Upload a PDF file", type="pdf")
