@@ -59,7 +59,7 @@ def select_embeddings(llm_name):
 def create_chain(llm, retriever):
     template = """Answer the question based only on the following context:
     {context}
-
+    Answers should be word to word match if the question is a word to word match
     Question: {question}
     """
     prompt = ChatPromptTemplate.from_template(template)
