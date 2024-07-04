@@ -1,8 +1,6 @@
 # ZaniAGENT
 
-
-
-
+This is a PDF extractor agent that allows us to choose the models while performing QnA.
 
 ## Run Locally
 
@@ -44,11 +42,9 @@ Start the server
   streamlit run app.py
 ```
 
+Gpt4 docker issue
 
-
-
-docker build -t zaniagent .
-
-
-docker buildx build --platform linux/amd64 -t zaniagent .
+```bash
+  https://github.com/zylon-ai/private-gpt/issues/729
+```
 
