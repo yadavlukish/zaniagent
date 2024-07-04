@@ -8,6 +8,8 @@ This is a PDF extractor agent that allows us to choose the models while performi
 
 [![Watch the video](https://img.youtube.com/vi/GRtc1aiOhpA/maxresdefault.jpg)](https://www.youtube.com/watch?v=GRtc1aiOhpA)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRtc1aiOhpA" frameborder="0" allowfullscreen></iframe>
+
 ## Run Locally
 
 Clone the project
