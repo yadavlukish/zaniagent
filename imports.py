@@ -1,3 +1,5 @@
+import streamlit_authenticator as stauth
+
 import bs4
 from langchain import hub
 from langchain_community.document_loaders import WebBaseLoader
